@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A full stack software developer based in Te Whanganui-a-Tara.</h3>
+<h1 align="left">Hi 👋, I'm Sofia</h1>
+<h3 align="left">A full stack software developer based in Te Whanganui-a-Tara.</h3>
 <h4>I have a background in music, where I first discovered my love for experimenting with new technologies, innovative sound design and the process of creating and mastering the wide range of software available in that space. I realised that I wanted to expand that passion for creation and innovation into the world of tech. I fell in love with the process of tailoring interfaces and code to fully suit the human needs and intentions behind technology, building things that empower and excite people. I am all about making creative and functional solutions to solve unique problems. 
 </h4>
 
