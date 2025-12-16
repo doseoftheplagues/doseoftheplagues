@@ -6,7 +6,7 @@
 <h3 align="left">Projects</h3>
 
 <h3 align="left">Glighfe</h3>
-<p>Our final week long project for Dev Academy! A mobile-first full stack social media app for communicating with pictures and symbols instead of words. I was the product owner for this project, responsible for managing the direction of the project and the group as a whole. On the technichal side of the project I worked on the image upload functionality, commenting and revising most of the apps design, aesthetics and user interface. Some improvents left for sure (if I get the chance sometime my first bug fix will be figuring out whatever is going wrong with the follow button) but this project was a huge effort for a team of junior developers and I am very proud of the technical acheivements of the final product. </p>
+<p>Our final week long project for Dev Academy! A mobile-first full stack social media app for communicating with pictures and symbols instead of words. I was the product owner for this project, responsible for managing the direction of the project and the group as a whole. On the technichal side of the project I worked on the image upload functionality, commenting and revising most of the apps design, aesthetics and user interface. Some improvents left for sure (if I get the chance sometime my first bug fix will be figuring out whatever is going wrong with the follow button) but this project was a huge effort for a team of junior developers and I am very proud of the technical acheivements of the final product.  </p>
 
 
 <h3 align="left">Connect with me:</h3>
