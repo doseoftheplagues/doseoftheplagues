@@ -3,6 +3,12 @@
 <p>I have a background in music, where I first discovered my love for experimenting with new technologies, innovative sound design and the process of creating and mastering the wide range of software available in that space. I realised that I wanted to expand that passion for creation and innovation into the world of tech. I fell in love with the process of tailoring interfaces and code to fully suit the human needs and intentions behind technology, building things that empower and excite people. I am all about making creative and functional solutions to solve unique problems. 
 </p>
 
+<h3 align="left">Projects</h3>
+
+<h5 align="left">Glighfe</h5>
+<p>Our final week long project for Dev Academy! A mobile-first full stack social media app for communicating with pictures and symbols instead of words. I was the product owner for this project, responsible for managing the direction of the project and the group as a whole. On the technichal side of the project I worked on the image upload functionality, commenting and revising most of the apps design, aesthetics and user interface. Some improvents left for sure (if I get the chance sometime my first bug fix will be figuring out whatever is going wrong with the follow button) but this project was a huge effort for a team of junior developers and I am very proud of the technical acheivements of the final product. </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sofia-tarn-8b26b0393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sofia-tarn-8b26b0393" height="30" width="40" /></a>
